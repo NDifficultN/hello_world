@@ -1,2 +1,5 @@
 # hello_world
 the first
+what is git???
+what is github???
+what exactly am i doing???
